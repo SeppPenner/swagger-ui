@@ -12,3 +12,7 @@ patch:
         patched: '2019-07-03T21:43:48.598Z'
     - swagger-client > isomorphic-form-data > form-data > async > lodash:
         patched: '2019-07-03T21:43:48.598Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T07:44:06.382Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T07:44:06.382Z'
